@@ -1,2 +1,0 @@
-# VPS-Mining
-Miner
